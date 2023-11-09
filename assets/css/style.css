@@ -53,6 +53,25 @@ main {
     margin-top: 47px;
 }
 
+/* Reasons Section */
+#benefits {
+    margin: 20px;
+    width: 90%;
+
+}
+
+#benefits-physical {
+    margin: 20px;
+    width: 90%;
+
+}
+
+#benefits-mental {
+    margin: 20px;
+    width: 90%;
+
+}
+
 /* Hero Section */
 #hero {
     height: 600px;
